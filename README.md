@@ -31,7 +31,7 @@ To use this API, you need to make a **POST** request on **http://localhost:3000/
 Body Example:
 ```json
 {
-	"url": "URL TO SHORTEN"
+  "url": "URL TO SHORTEN"
 }
 ```
 
